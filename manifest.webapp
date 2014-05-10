@@ -1,0 +1,25 @@
+{
+"name": "Games Room 2",
+"version": "1.4",
+"description": "App de jogos online, com os principais sites, clickjogos, papajogos, ojogos e etc...",
+"launch_path": "/index.html",
+"icons": {
+"60": "/icon-60.png",
+"128": "/icon-128.png",
+"90": "/icon-90.png",
+"16": "/icon-16.png",
+"256": "/icon-256.png",
+"32": "/icon-32.png",
+"120": "/icon-120.png"
+
+},
+"developer": {
+"name": "Appster One",
+"url": "http://appsterone.blogspot.com.br/"
+},
+"default_locale": "pt-br",
+"chrome": { "navigation": true 
+"installs_allowed_from": ["*"],
+  "appcache_path": "/cache.manifest",
+
+}
